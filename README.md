@@ -120,7 +120,6 @@ DuoFinder는 리그 오브 레전드 플레이어에게 최적의 듀오를 추�
     병렬 학습 환경 구축<br>
     </td>
     <td align="center" width="150px">
-    데이터 수집 및 전처리<br>
     데이터 분석<br>
     추천 시스템 모델링<br>
     Inference 서빙<br>
